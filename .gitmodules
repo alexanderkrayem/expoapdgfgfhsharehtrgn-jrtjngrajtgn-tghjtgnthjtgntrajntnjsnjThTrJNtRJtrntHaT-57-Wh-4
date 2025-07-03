@@ -1,6 +1,0 @@
-[submodule "my-telegram-app"]
-	path = my-telegram-app
-	url = https://github.com/alexanderkrayem/my-telegram-app.git
-[submodule "telegram-app-backend"]
-	path = telegram-app-backend
-	url = https://github.com/alexanderkrayem/telegram-app-backend.git
